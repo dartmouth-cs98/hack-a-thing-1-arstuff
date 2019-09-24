@@ -10,7 +10,7 @@ This tutorial aims to create an AR Car show that is activated by voice. I chose 
 
 A successful execution of this project would have created an android application where I can choose a model of a car, see the selected car in AR (either outside or inside buildings), make the car model move through my voice.
 
-Following the tutorial, I managed to create a scene where the camera shows a 3d model of a car when the camera identifies its image (had a basic experience with how Vuforia worked with Unity). Then, I set up the "start" screen where I can choose which car I want to see in AR. Then, I visited wav.ai to teach the algorithm commands like "open the bonnet", "close the windows" and more so that I can use my voice to later activate animations in the 3d models.
+Following the tutorial, I managed to create a scene where the camera shows a 3d model of a car when the camera identifies its image (had a basic experience with how Vuforia worked with Unity). Then, I set up the "start" screen where I can choose which car I want to see in AR. Then, I visited wit.ai to teach the algorithm commands like "open the bonnet", "close the windows" and more so that I can use my voice to later activate animations in the 3d models.
 
 ### What I learned
 
